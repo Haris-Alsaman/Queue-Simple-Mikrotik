@@ -18,6 +18,6 @@
 
 
 
-<img src="https://github.com/Haris-Alsaman/hotspot-crads_mikrotik/blob/main/Picture.png" width="750">
+<img src="https://github.com/Haris-Alsaman/hotspot-crads_mikrotik/blob/main/Picture.png" width="880">
 
 
