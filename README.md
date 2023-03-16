@@ -16,7 +16,7 @@
 6- Solving the problem of internet cutting when the division is activated.
 
 
-### imges
+### images
 
 
 <img src="https://github.com/Haris-Alsaman/Queue-Simple-Mikrotik/blob/main/Picture.png" width="880">
