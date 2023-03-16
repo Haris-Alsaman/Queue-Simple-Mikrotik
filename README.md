@@ -19,6 +19,6 @@
 ### imges
 
 
-<img src="https://github.com/Haris-Alsaman/hotspot-crads_mikrotik/blob/main/Picture.png" width="880">
+<img src="https://github.com/Haris-Alsaman/Queue-Simple-Mikrotik/blob/main/Picture.png" width="880">
 
 
