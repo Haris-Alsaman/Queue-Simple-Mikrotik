@@ -60,20 +60,11 @@ add comment=FB.com/alharth6 name=al.h.s  policy=\
 
 
 
-Create a file named "al.h.s", and adjust the first variable (4) to your internet speed.
-al.h.s
+ adjust the first variable (local v "4") to your internet speed.
 
 
 
-{
-:local v 4;
-:local t [ :len [/ip hotspot active find] ];
-:if ($t=0) do={:set t 1;}
-:local s ($v*1800000);
-:local q ($s/$t);
-:local h ($q/3);
-/queue simple set [find priority="8/8" and dynamic=no and comment!=1] max-limit="$h/$q"
-}
+
 
 
 
